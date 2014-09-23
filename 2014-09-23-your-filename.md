@@ -1,0 +1,3 @@
+## Новое сообщениеfsdf sdfksdhfkjs slkdfjh slkdjf
+
+Введите текста, пользуясь [разметкой Markdown](http://daringfireball.net/projects/markdown/). используйте панель инструментов над полем или нажмите на кнопку **?** для информации о форматировании.
